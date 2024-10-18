@@ -1,6 +1,6 @@
 ## 👋 Olá, me chamo Natália Mangili!
 
-## 👩🏻‍💻 Sobre mim
+### 👩🏻‍💻 Sobre mim
 
 Sou uma desenvolvedora backend apaixonada por tecnologia e inovação. Tenho experiência com **C# .NET,** **Typescript**, **SQL** e mais!.
 
