@@ -6,4 +6,4 @@ Sou uma desenvolvedora backend apaixonada por tecnologia e inovação. Tenho exp
 
 Atualmente, estou focando em aprimorar minhas habilidades e conhecimentos por meio de minha pós graduação, cursos onlines e projetos, utilizando boas práticas como Clean Code, Princípios SOLID, Design Patterns, etc.
 
-✨Currently learning more: Kafka, MongoDB, Patterns, Tests, T-SQL
+✨Currently focusing on: Kafka, MongoDB, Patterns, Tests, T-SQL
